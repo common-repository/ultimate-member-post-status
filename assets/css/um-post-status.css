@@ -1,0 +1,86 @@
+a.um-post-wall-btn.um-button:hover {
+    background: #666666 none repeat scroll 0 0 !important;
+}
+a.um-post-wall-btn.um-button {
+    background: #ccc none repeat scroll 0 0 !important;
+    border-radius: 2px !important;
+    border-style: none !important;
+    font-size: 1.4rem !important;
+    font-weight: 600 !important;
+    margin-top: 7px;
+    padding: 13px 10px !important;
+    text-transform: uppercase !important;
+}
+a.um-post-wall-btn.um-button {
+    background: #ccc none repeat scroll 0 0 !important;
+    border-style: none !important;
+    font-size: 0.7rem !important;
+    font-weight: 600 !important;
+    margin-top: 6px;
+    padding: 9px 10px !important;
+    text-transform: uppercase !important;
+}
+
+.um-popup .um-activity-foot a.um-button {
+    background:#666;
+    color: #fff;
+}
+
+.um-popup .um-activity-widget {
+    padding-left:8px;
+    padding-right:8px;
+    padding-bottom:8px;
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+}
+
+.um-popup .um-activity-new-post {
+    margin-top: 0px !important;
+}
+
+.um-popup .um-activity-foot {
+    background: #fff !important;
+    border: none !important;
+}
+
+.um-popup .um-activity-body {
+    border: none !important;
+}
+
+.um-popup .um-message-header-right {
+    /*position: initial !important;*/
+    text-align: right;
+}
+
+.um-popup .um-activity-head {
+    background: #fff !important;
+    border: none !important;
+}
+
+.um-popup .um-message-header {
+    /*background: #555;
+    padding: 5px 15px;*/
+}
+
+.um-post-wall, .genesis-nav-menu .menu-item {
+    vertical-align:middle;
+}
+
+.um-popup input, select, textarea {
+    font-size: 13px !important;
+}
+
+.um-popup .um-message-footer {
+    font-size: 13px;
+    padding: 15px;
+}
+
+.um-popup .um-message-hide {
+    text-decoration: none;
+    /*color: #fff;*/
+}
+
+.um-popup .um-message-header.um-post-wall {
+    padding: 27px;
+    background: #555;
+}
